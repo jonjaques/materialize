@@ -35,6 +35,7 @@
   "files": [
     "bin/materialize.css",
     "bin/materialize.js",
+    "dist",
     "font/material-design-icons/Material-Design-Icons.eot",
     "font/material-design-icons/Material-Design-Icons.svg",
     "font/material-design-icons/Material-Design-Icons.ttf",
@@ -54,6 +55,8 @@
     "font/roboto/Roboto-Regular.woff2",
     "font/roboto/Roboto-Thin.ttf",
     "font/roboto/Roboto-Thin.woff",
-    "font/roboto/Roboto-Thin.woff2"
+    "font/roboto/Roboto-Thin.woff2",
+    "js",
+    "sass"
   ]
 }
